@@ -1,15 +1,23 @@
-# Hi there , I am Santosh Babu 👋
+<div>
+  <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hello, I'm Santosh Babu</h1>
+</div>
 
 
-**santosh-babu/santosh-babu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :man_technologist: About Me :
 
-Here are some ideas to get you started:
+- 🔭 I’m currently travling in the computer world. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🌱 I’m currently exploring Web Development.
+- ⚡ I solve problems on LeetCode and read tech articles.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/)
+- 😄 Pronouns: he/him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+### :hammer_and_wrench: Languages and Tools :
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,wordpress,py,idea,vscode,git,github)](https://skillicons.dev)
+
+
+<!-- ### :fire: My Stats : -->
+
+
